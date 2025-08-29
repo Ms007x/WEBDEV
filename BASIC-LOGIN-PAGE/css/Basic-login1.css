@@ -8,8 +8,8 @@
 
 .login-div{
     display: flex;
-    width:50vw ;
-    height:50vh;
+    width:25em ;
+    height:25em;
     background-color: rgb(255, 255, 255);
     border:2px solid rgb(224, 228, 224);
     flex-direction: column;
@@ -18,7 +18,7 @@
     margin-right: auto;
     margin-left: auto;
     border-radius: 3%;
-    margin-top: 25%;
+    margin-top: 13em;
 }
 
 
